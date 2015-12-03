@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ValidityCheck</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="address">Address</string>
+    <string name="city">City</string>
+    <string name="birth_year">Birth Year</string>
+    <string name="find_valid_registraion">Find Valid Registraions</string>
+    <string name="download_voters">Download_Voters</string>
+</resources>
